@@ -38,3 +38,5 @@ step 5) git add . ---->badhi working directory ni file ne stagging area ma add k
 
 
          hve jo aapne master ma newbranch ne merge karie to newbranch ma karela badha changes master vadi branch ma b aavi jase...
+
+         
